@@ -26,12 +26,12 @@
     "url": "https://github.com/AlisonVilela/ngx-zendesk-webwidget/issues"
   },
   "devDependencies": {
-    "@angular/common": "^4.0.0",
-    "@angular/compiler": "^4.0.0",
-    "@angular/compiler-cli": "^4.0.0",
-    "@angular/core": "^4.0.0",
-    "@angular/platform-browser": "^4.0.0",
-    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/common": "*",
+    "@angular/compiler": "*",
+    "@angular/compiler-cli": "*",
+    "@angular/core": "*",
+    "@angular/platform-browser": "*",
+    "@angular/platform-browser-dynamic": "*",
     "@compodoc/compodoc": "^1.0.0-beta.10",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.60",
@@ -55,11 +55,11 @@
     "protractor": "~5.1.0",
     "rollup": "^0.41.6",
     "run-sequence": "^1.2.2",
-    "rxjs": "^5.1.0",
+    "rxjs": "*",
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
-    "typescript": "~2.2.0",
-    "zone.js": "^0.8.4"
+    "typescript": "*",
+    "zone.js": "*"
   },
   "engines": {
     "node": ">=6.0.0"
